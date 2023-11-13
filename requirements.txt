@@ -1,0 +1,13 @@
+greenlet==3.0.1
+numpy==1.26.1
+opencv-python==4.8.1.78
+pandas==2.1.1
+Pillow==10.1.0
+
+python-dateutil==2.8.2
+pytz==2023.3.post1
+pyzbar==0.1.9
+six==1.16.0
+
+typing_extensions==4.8.0
+tzdata==2023.3
